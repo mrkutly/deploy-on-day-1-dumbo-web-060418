@@ -1,0 +1,592 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fle",
+				"flex-end"
+			],
+			[
+				"mfa",
+				"mfaQuestion"
+			],
+			[
+				"te",
+				"text_field_tag"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ban",
+				"bank_login"
+			],
+			[
+				"curr",
+				"current_user"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"bse",
+				"base_doc_type"
+			],
+			[
+				"uploaded",
+				"uploaded_io"
+			],
+			[
+				"up",
+				"uploaded_ios"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"basc",
+				"base_doc_type"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"ph",
+				"phone_number"
+			],
+			[
+				"cur",
+				"current_user"
+			],
+			[
+				"Syn",
+				"SynapsePay"
+			],
+			[
+				"par",
+				"params"
+			],
+			[
+				"add_",
+				"add_base_doc"
+			],
+			[
+				"bas",
+				"base_doc_type"
+			],
+			[
+				"name",
+				"name_on_account"
+			],
+			[
+				"remmeb",
+				"remember_token"
+			],
+			[
+				"mi",
+				"minimum"
+			],
+			[
+				"client",
+				"client_secret"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "packa",
+		"selected_items":
+		[
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Paul/Documents/Access Labs/Module 1/deploy-on-day-1-dumbo-web-060418/index.html",
+		"/Users/Paul/Documents/NodeJS/AwesomeProject/App.js",
+		"/Users/Paul/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+		"/Users/Paul/Documents/Rails/balancely/config/routes.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/controllers/pages_controller.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/synapse_mfa.js.erb",
+		"/Users/Paul/Documents/Rails/balancely/lib/synapse_pay.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/link_accounts.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/assets/stylesheets/scaffolds.scss",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/synapse_mfa.html.erb.Appraisals",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/main.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/add_physical_document.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/Gemfile",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/add_base_doc.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/controllers/users_controller.rb",
+		"/Users/Paul/Documents/Rails/balancely/config/initializers/environment_variables.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/models/user.rb",
+		"/Users/Paul/Documents/Rails/balancely/notes/instructions.txt",
+		"/Users/Paul/Documents/Rails/balancely/config/environment_variables.yml",
+		"/Users/Paul/Documents/Rails/balancely/.gitignore",
+		"/Users/Paul/Documents/Rails/balancely/config/secrets.yml",
+		"/Users/Paul/Documents/Rails/balancely/config/cable.yml",
+		"/Users/Paul/Documents/Rails/balancely/tmp/cache/assets/sprockets/v3.0/mY/mY5Ut5SUWn-z3V1dGsCTq-GfM6O5jkMzOiJ6Qz3cS_I.cache",
+		"/Users/Paul/.bashrc",
+		"/Users/Paul/Documents/Rails/balancely/config/environments/development.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/controllers/application_controller.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/helpers/sessions_helper.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/upload_physical_document.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/untitled.Appraisals",
+		"/Users/Paul/Documents/Rails/balancely/db/schema.rb",
+		"/Users/Paul/Documents/Rails/balancely/db/migrate/20170712154703_add_sp_user_id_to_user.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/users/_form.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/db/migrate/20170712153728_add_phone_number_to_user.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/controllers/sessions_controller.rb",
+		"/Users/Paul/Documents/Rails/balancely/db/migrate/20170712142754_rename_password_digest_to_password_in_user.rb",
+		"/Users/Paul/Documents/Rails/balancely/db/migrate/20170712140052_change_the_password_digest.rb",
+		"/Users/Paul/Documents/Rails/balancely/db/migrate/20170711194852_add_password_digest_to_users.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/sessions/new.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/users/new.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/test/controllers/pages_controller_test.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/add_bank.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/layouts/mailer.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/helpers/application_helper.rb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/users/show.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/app/views/pages/registration.html.erb",
+		"/Users/Paul/Documents/Rails/balancely/db/migrate/20170703185049_create_users.rb",
+		"/Users/Paul/Documents/Rails/balancely/config/database.yml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"new_bank_login",
+			"ban",
+			"bank_account_expiration",
+			"bank_account_number",
+			"link",
+			"SynapsePayRest::BaseDocument",
+			"uploaded_ios",
+			"base_doc_type",
+			"----------------------------",
+			"current_user",
+			"added",
+			"documents",
+			"File.open(Rails.root.join('public', 'uploads', uploaded_io.original_filename), 'wb')",
+			"add_physical_document",
+			"upload_physical_document",
+			"ip_address = self.current_user_ip_address",
+			"self.current_user_ip_address",
+			" current_user_ip_address",
+			"\t\t  ",
+			"  ",
+			"address_country_code",
+			"bank_account_ced",
+			"bank_account_expiration",
+			"bank_account_number",
+			"bank_account_name",
+			",",
+			"=>",
+			"phone_number",
+			"user_auth_and_finger",
+			"create_synapse_pay_account",
+			"name_on_account",
+			"<%= f.text_field :password %>",
+			"password",
+			"password_digest",
+			"current_user",
+			"res",
+			"\n",
+			"client_secret_EqZ17n2l6JbmwB4TLfM0srCNadgkyHA3D8pcYRWo",
+			"client_id_SHoV2RuUTegrCFm5dh90zxicOlAy0L6WPMw4ZIfs",
+			"sandbox.synapsepay.com/api/v3/user",
+			"client",
+			"register",
+			"sigh up",
+			"register"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"scs",
+				"app/assets/stylesheets/scaffolds.scss"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"addbase",
+				"app/views/pages/add_base_doc.html.erb"
+			],
+			[
+				"usercon",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"config/environment_variables.yml",
+				"config/environment_variables.yml"
+			],
+			[
+				"environment_variables.rb",
+				"config/initializers/environment_variables.rb"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"sec",
+				"config/secrets.yml"
+			],
+			[
+				".ym",
+				"tmp/cache/assets/sprockets/v3.0/mY/mY5Ut5SUWn-z3V1dGsCTq-GfM6O5jkMzOiJ6Qz3cS_I.cache"
+			],
+			[
+				"deve",
+				"config/environments/development.rb"
+			],
+			[
+				"sessiohe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"syn",
+				"lib/synapse_pay.rb"
+			],
+			[
+				"add",
+				"app/views/pages/add_physical_document.html.erb"
+			],
+			[
+				"applicat",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"sc",
+				"db/schema.rb"
+			],
+			[
+				"addsp",
+				"db/migrate/20170712154703_add_sp_user_id_to_user.rb"
+			],
+			[
+				"userform",
+				"app/views/users/_form.html.erb"
+			],
+			[
+				"phone",
+				"db/migrate/20170712153728_add_phone_number_to_user.rb"
+			],
+			[
+				"sess",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"page",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"schem",
+				"db/schema.rb"
+			],
+			[
+				"pass",
+				"db/migrate/20170712140052_change_the_password_digest.rb"
+			],
+			[
+				"renam",
+				"db/migrate/20170712142754_rename_password_digest_to_password_in_user.rb"
+			],
+			[
+				"change",
+				"db/migrate/20170712140052_change_the_password_digest.rb"
+			],
+			[
+				"users",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"use",
+				"app/models/user.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"seshe",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"ses",
+				"app/controllers/sessions_controller.rb"
+			],
+			[
+				"pages",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"usersfor",
+				"app/views/users/_form.html.erb"
+			],
+			[
+				"usersnew",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"contr",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"statcon",
+				"test/controllers/pages_controller_test.rb"
+			],
+			[
+				"main",
+				"app/views/pages/main.html.erb"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"ma",
+				"app/views/layouts/mailer.html.erb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"session",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"sch",
+				"db/schema.rb"
+			],
+			[
+				"app",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"notes",
+				"notes/instructions.txt"
+			],
+			[
+				"secre",
+				"config/secrets.yml"
+			],
+			[
+				"pa",
+				"app/controllers/pages_controller.rb"
+			],
+			[
+				"usersc",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"sho",
+				"app/views/users/show.html.erb"
+			],
+			[
+				"migr",
+				"db/migrate/20170703185049_create_users.rb"
+			],
+			[
+				"dat",
+				"config/database.yml"
+			],
+			[
+				"migra",
+				"db/migrate/20170703185049_create_users.rb"
+			],
+			[
+				"da",
+				"config/database.yml"
+			],
+			[
+				"data",
+				"config/database.yml"
+			],
+			[
+				"layou",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"we",
+				"app/controllers/welcome_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
